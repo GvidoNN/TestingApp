@@ -1,3 +1,26 @@
 <resources>
-    <string name="app_name">TestingApp</string>
+    <string name="app_name" translatable="false">TestingApp</string>
+    <string name="scheme">Scheme: </string>
+    <string name="type">Type: </string>
+    <string name="brand">Brand: </string>
+    <string name="prepaid">Prepaid: </string>
+    <string name="number_length">Number length:</string>
+    <string name="number_luhn">Number luhn:</string>
+    <string name="country_alpha2">Country alpha2:</string>
+    <string name="country_name">Country name: </string>
+    <string name="country_latitude">Country latitude: </string>
+    <string name="country_longitude">Country longitude: </string>
+    <string name="country_currency">Country currency: </string>
+    <string name="bank_name">Bank name: </string>
+    <string name="bank_url">Bank url: </string>
+    <string name="bank_phone">Bank phone: </string>
+    <string name="bank_city">Bank city: </string>
+    <string name="history">History: </string>
+    <string name="yes">Yes </string>
+    <string name="no">No </string>
+    <string name="search">Search</string>
+    <string name="enter">Enter number</string>
+    <string name="error">Data not found</string>
+
+
 </resources>

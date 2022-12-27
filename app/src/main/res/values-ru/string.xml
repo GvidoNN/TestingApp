@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 
 <resources>
-    <string name="scheme">MVVM example</string>
+    <string name="scheme">Система: </string>
     <string name="type">Тип: </string>
     <string name="brand">Бренд: </string>
     <string name="prepaid">Предоплата: </string>
